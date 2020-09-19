@@ -54,74 +54,59 @@ img, .f-advertorial {
 }
 
 .f-nav-bar {
-  
   color: #cacaca;
 }
 
 .f-nav-bar, .f-nav-bar-container {
-  
   background-color: #303030;
 }
 
 .nav-basket_badge__2Pz2f .badge-counter {
-  
   color: #cacaca;
 }
 
 .f-footer-doormat__wrapper {
-  
   background: #222;
 }
 
 .f-footer-doormat__link {
-  
   color: #686868;
 }
 
 .navigation-footer_root__2q8f7 {
-  
-  
   background: #303030;
   color: #fff;
 }
 
 .navigation-footer_noticeItem__1vAq_, .f-advertorial__text-zone {
-  
   color: #777;
 }
 
 .global-notification_messageWrapper__3kNKe {
-  
   background-color: #867654;
 }
 
 .global-notification_title__3r37K {
-  
   color: #000;
 }
 
 .taxonomy-card_root__3e1VZ {
-  
   background-color: #404040;
 }
 
 .taxonomy-card_titleLink__7TTrF {
-  
   color: #bbb;
 }
 
 .alphabet_link__1XlLp {
-  
   color: #bbb;
 }
 
 .shop-in-shop-button_root__1kGBO {
-  
   background-color: #404040;
 }
 
 .shop-in-shop-button_cta__38gwt {
-  
   color: #bbb;
 }
 
@@ -130,35 +115,27 @@ img, .f-advertorial {
 }
 
 .f-menu-dropdown__mount-point::after {
-  
   background-color: #404040;
 }
 
 .f-menu-dropdown__list {
-  
-  
   background-color: #404040;
   color: #bbb;
 }
 
 .product-search_isOpen__110T5.autocomplete .react-autosuggest__suggestions-container {
-  
   background-color: #404040;
 }
 
 .autocomplete .react-autosuggest__suggestions-list {
-  
   background-color: #404040;
 }
 
 .product-search_suggestion__18IID {
-  
   color: #bbb;
 }
 
 .input_field__QD14l {
-  
-  
   background-color: #404040;
   color: #ddd;
 }
@@ -169,12 +146,10 @@ img, .f-advertorial {
 }
 
 .top-bar_bar__2mTXh {
-  
   border-bottom: 1px solid #303030;
 }
 
 .f-nav-bar-container::after {
-  
   background-color: #505050;
 }
 
@@ -184,17 +159,14 @@ h5[class*="product-info_collapsibleTitle"] {
 }
 
 .collapsible-block-element_root__2MU-5 {
-  
   background-color: #303030;
 }
 
 .ui-icon_root__KvRnK {
-  
   fill: #bbb;
 }
 
 .breadcrumbs_link__2Edfx, .breadcrumbs_text__cX5Sw {
-  
   color: #bbb;
 }
 
@@ -203,7 +175,6 @@ h5[class*="product-info_collapsibleTitle"] {
 }
 
 .page-navigation_root__2Zjba {
-  
   background-color: #404040;
 }
 
@@ -212,7 +183,6 @@ h5[class*="product-info_collapsibleTitle"] {
 }
 
 .product-card-hero-price_root__1kqcn {
-  
   background-color: #303030;
 }
 
@@ -221,47 +191,38 @@ h5[class*="product-info_collapsibleTitle"] {
 }
 
 .taxonomy-show-more_root__1I6xY {
-  
   background-color: #404040;
 }
 
 .taxonomy-child_root__3MwV- {
-  
   background-color: #404040;
 }
 
 .taxonomy-child_title__13KUy {
-  
   color: #bbb;
 }
 
 .spotlight_heading__912Bm {
-  
   color: #bbb;
 }
 
 .search-header_root__v35xh {
-  
   background-color: #303030;
 }
 
 .sorting-select_select__2-aw2 select {
-  
   color: #bbb;
 }
 
 .select_select__2jADY {
-  
   background-color: #404040;
 }
 
 .title_root__3OLMP {
-  
   color: #bbb;
 }
 
 .price_portrait__1yoeR {
-  
   background-color: hsla(0, 0%, 18.8%, 0.35);
 }
 
@@ -270,94 +231,75 @@ h5[class*="product-info_collapsibleTitle"] {
 }
 
 .spotlight_heading__1pWI6 {
-  
   color: #bbb;
 }
 
 .card-row_item__naLGv {
-  
   background-color: #404040;
 }
 
 .title_root__salCe {
-  
   color: #bbb;
 }
 
 .price_portrait__vRFj8 {
-  
   background-color: hsla(0, 0%, 18.8%, 0.35);
 }
 
 .price-amount_root__1al5m {
-  
   color: #eee;
 }
 
 .price_listPrice__P8_ko, .price_unitSize__rhVkS {
-  
   color: #eee;
 }
 
 .recipe-lane_root__1I5Tn {
-  
   background: #404040;
 }
 
 .f-display-card {
-  
-  
   background-color: #303030;
   color: #bbb;
 }
 
 .f-display-card__footer {
-  
   background-color: #303030;
 }
 
 .recipe-card-properties_root__1ob6n.recipe-card-properties_allerhande__vKfZz {
-  
   background: #303030;
 }
 
 .recipe-card-favorite-button_favoriteButton__3qRAK {
-  
   background: #404040;
 }
 
 .chevron-button_bonus__11vZW, .chevron-button_gall__B1i8O, .chevron-button_infinite__6WYOV, .chevron-button_tieredOffer__2a3Y1 {
-  
   background-color: #303030;
 }
 
 .small-promo-blocks_customBgcolor-walnoot__13nRX {
-  
   background-color: #97938d;
 }
 
 .small-promo-blocks_customBgcolor-ah__3HLEZ {
-  
   background-color: #90a2a8;
 }
 
 .small-promo-blocks_customBgcolor-mokka__15zat {
-  
   background-color: #a4a2a1;
 }
 
 .small-promo-blocks_customBgcolor-vanille__1TEFt {
-  
   background-color: #979285;
 }
 
 .small-promo-blocks_customBgcolor-aardbei__1_50Y {
-  
   background-color: #a49292;
 }
 
 .small-promo-blocks_customBgcolor-water__1hRm- {
-  
   background-color: #8d9397;
 }
 
@@ -375,8 +317,6 @@ h5[class*="product-info_collapsibleTitle"] {
 
 
 .shield_tieredOffer__2OAMr .shield_title__205iE {
-  
-  
   border: 1px solid #007ba4;
   background-color: #007ba4;
 }
