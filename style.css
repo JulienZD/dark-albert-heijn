@@ -1,0 +1,601 @@
+body {
+  /* background-color: #fff; */
+  background-color: #303030;
+}
+
+body {
+  /* color: #303030; */
+  color: #cacaca;
+}
+
+.title_root__2EGeG {
+  /* color: #303030; */
+  color: #fff;
+}
+
+.price_portrait__2WpRE {
+  /* background-color: hsla(0,0%,100%,.9); */
+  background-color: hsla(0, 0%, 18.8%, 0.35);
+}
+
+.price_listPrice__15t57, .price_unitSize__20xsh {
+  /* color: #acacac; */
+  color: #fff;
+}
+
+.price-amount_root__4cx5I {
+  /* color: #303030; */
+  color: #fff;
+}
+
+.chevron-button_bonus__1CH39, .chevron-button_bonusBox__1EOYe, .chevron-button_gall__39QDX, .chevron-button_infinite__1lQMN, .chevron-button_tieredOffer__r-BMK {
+  /* background-color: #fff; */
+  background-color: #303030;
+}
+
+img, .f-advertorial {
+  filter: brightness(.75);
+}
+
+.legend-card_bonus__1iRP- {
+  /* color: #ff7900; */
+  /* background-color: #ffebd9; */
+  color: #d96700;
+  background-color: #534c45;
+}
+
+.base-lane-heading_root__14yNY {
+  /* color: #ff7900; */
+  color: #d96700;
+}
+
+.top-bar_root__2EKb0 {
+  /* background-color: #fff; */
+  background-color: #303030;
+}
+
+.sub-nav_link__2ATH1 {
+  /* color: #303030; */
+  color: #cacaca;
+}
+
+.f-nav-bar {
+  /* color: #303030; */
+  color: #cacaca;
+}
+
+.f-nav-bar, .f-nav-bar-container {
+  /* background-color: #fff; */
+  background-color: #303030;
+}
+
+.nav-basket_badge__2Pz2f .badge-counter {
+  /* color: #fff; */
+  color: #cacaca;
+}
+
+.f-footer-doormat__wrapper {
+  /* background: #f5f5f5; */
+  background: #222;
+}
+
+.f-footer-doormat__link {
+  /* color: #303030; */
+  color: #686868;
+}
+
+.navigation-footer_root__2q8f7 {
+  /* background: #f5f5f5; */
+  /* color: #303030; */
+  background: #303030;
+  color: #fff;
+}
+
+.navigation-footer_link__2EDjH {
+  /* color: #303030; */
+  color: #fff;
+}
+
+.navigation-footer_noticeItem__1vAq_, .f-advertorial__text-zone {
+  /* color: #303030; */
+  color: #777;
+}
+
+.global-notification_messageWrapper__3kNKe {
+  /* background-color: #fcdd9c; */
+  background-color: #867654;
+}
+
+.global-notification_title__3r37K {
+  /* color: #303030; */
+  color: #000;
+}
+
+.taxonomy-card_root__3e1VZ {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.taxonomy-card_titleLink__7TTrF {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.alphabet_link__1XlLp {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.shop-in-shop-button_root__1kGBO {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.shop-in-shop-button_cta__38gwt {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.autocomplete .react-autosuggest__container {
+  background-color: #404040;
+}
+
+.f-menu-dropdown__mount-point::after {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.f-menu-dropdown__list {
+  /* background-color: #fff; */
+  /* color: #303030; */
+  background-color: #404040;
+  color: #bbb;
+}
+
+.product-search_isOpen__110T5.autocomplete .react-autosuggest__suggestions-container {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.autocomplete .react-autosuggest__suggestions-list {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.product-search_suggestion__18IID {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.input_field__QD14l {
+  /* background-color: #fff; */
+  /* color: #303030; */
+  background-color: #404040;
+  color: #ddd;
+}
+
+.autosuggest-input_label__3JfLC {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.autosuggest-input_label__3JfLC {
+  /* color: #838383; */
+  color: #ddd;
+}
+
+.top-bar_bar__2mTXh {
+  /* border-bottom: 1px solid #ebf2f7; */
+  border-bottom: 1px solid #303030;
+}
+
+.f-nav-bar-container::after {
+  /* background-color: #cdcdcd; */
+  background-color: #505050;
+}
+
+/* Gebruik/Bewaren/Contactgegevens on product pages */
+h5[class*="product-info_collapsibleTitle"] {
+    color: #bbb;
+}
+
+.collapsible-block-element_root__2MU-5 {
+  /* background-color: #fff; */
+  background-color: #303030;
+}
+
+.ui-icon_root__KvRnK {
+  /* fill: currentColor; */
+  fill: #bbb;
+}
+
+.page-navigation_root__2Zjba {
+  /* background-color: #f9f7f5; */
+  background-color: #404040;
+}
+
+.breadcrumbs_link__2Edfx, .breadcrumbs_text__cX5Sw {
+  /* color: #838383; */
+  color: #bbb;
+}
+
+.product-recommendations_price__kdc2g {
+ color:#ddd;
+}
+
+.collapsible-block-element_root__2MU-5 {
+  /* background-color: #fff; */
+  background-color: #303030;
+}
+
+.ui-icon_root__KvRnK {
+  /* fill: currentColor; */
+  fill: #bbb;
+}
+
+.page-navigation_root__2Zjba {
+  /* background-color: #f9f7f5; */
+  background-color: #404040;
+}
+
+.breadcrumbs_link__2Edfx, .breadcrumbs_text__cX5Sw {
+  /* color: #838383; */
+  color: #bbb;
+}
+
+.product-recommendations_price__kdc2g {
+  /* color: #303030; */
+  color: #ddd;
+}
+
+.price-amount_root__vE9dJ {
+  /* color: #303030; */
+  color: #ddd;
+}
+
+.product-card-hero-price_root__1kqcn {
+  /* background-color: hsla(0,0%,100%,.9); */
+  background-color: #303030;
+}
+
+.product-card-hero-price_root__1kqcn .price-amount_root__vE9dJ {
+    color: #ddd;
+}
+/* styles.ab8f2c04.css | https://www.ah.nl/zoeken/assets/styles.ab8f2c04.css */
+
+.product-card-hero-price_root__1kqcn {
+  /* background-color: hsla(0,0%,100%,.9); */
+  background-color: #303030;
+}
+
+.price_portrait__1yoeR {
+  /* background-color: hsla(0,0%,100%,.9); */
+  background-color: hsla(0, 0%, 74.9%, 0.9);
+}
+
+.price_listPrice__f18hk, .price_unitSize__26KBz {
+  /* color: #acacac; */
+  color: #303030;
+}
+
+.price-amount_root__vE9dJ {
+  /* color: #ddd; */
+  color: #303030;
+}
+
+.taxonomy-show-more_root__1I6xY {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.taxonomy-child_root__3MwV- {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.taxonomy-child_title__13KUy {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.spotlight_heading__912Bm {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+
+/* A.styles.ab8f2c04.css.pagespeed.cf.lAGMUiB7zn.css | https://www.ah.nl/zoeken/assets/A.styles.ab8f2c04.css.pagespeed.cf.lAGMUiB7zn.css */
+
+.taxonomy-show-more_root__1I6xY {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.taxonomy-child_root__3MwV- {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.taxonomy-child_title__13KUy {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.spotlight_heading__912Bm {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.search-header_root__v35xh {
+  /* background-color: #fff; */
+  background-color: #303030;
+}
+
+.sorting-select_select__2-aw2 select {
+  /* color: #595959; */
+  color: #bbb;
+}
+
+.select_select__2jADY {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.title_root__3OLMP {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.price_portrait__1yoeR {
+  /* background-color: hsla(0, 0%, 74.9%, 0.9); */
+  background-color: hsla(0, 0%, 18.8%, 0.35);
+}
+
+.price-amount_root__vE9dJ {
+  /* color: #303030; */
+  color: #ddd;
+}
+
+.price_listPrice__f18hk, .price_unitSize__26KBz {
+  /* color: #303030; */
+  color: #acacac;
+  color: #ddd;
+}
+
+.spotlight_heading__1pWI6 {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.spotlight_heading__1pWI6 {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.card-row_item__naLGv {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.title_root__salCe {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.price_portrait__vRFj8 {
+  /* background-color: hsla(0,0%,100%,.9); */
+  background-color: hsla(0, 0%, 18.8%, 0.35);
+}
+
+.price-amount_root__1al5m {
+  /* color: #303030; */
+  color: #eee;
+}
+
+.price_listPrice__P8_ko, .price_unitSize__rhVkS {
+  /* color: #acacac; */
+  color: #eee;
+}
+
+/* A.styles.af672a08.css.pagespeed.cf.LZbUpXdlwf.css | https://www.ah.nl/content/assets/A.styles.af672a08.css.pagespeed.cf.LZbUpXdlwf.css */
+
+.spotlight_heading__1pWI6 {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.card-row_item__naLGv {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.title_root__salCe {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.price_portrait__vRFj8 {
+  /* background-color: hsla(0,0%,100%,.9); */
+  background-color: hsla(0, 0%, 18.8%, 0.35);
+}
+
+.price-amount_root__1al5m {
+  /* color: #303030; */
+  color: #eee;
+}
+
+.price_listPrice__P8_ko, .price_unitSize__rhVkS {
+  /* color: #acacac; */
+  color: #eee;
+}
+
+.recipe-lane_root__1I5Tn {
+  /* background: #f9f7f5; */
+  background: #404040;
+}
+
+.f-display-card {
+  /* background-color: #f0ece6; */
+  /* color: #303030; */
+  background-color: #303030;
+  color: #bbb;
+}
+
+.f-display-card__footer {
+  /* background-color: #fff; */
+  background-color: #303030;
+}
+
+.recipe-card-properties_root__1ob6n.recipe-card-properties_allerhande__vKfZz {
+  /* background: #f7f7f7; */
+  background: #303030;
+}
+
+.recipe-card-favorite-button_favoriteButton__3qRAK {
+  /* background: #fff; */
+  background: #404040;
+}
+
+.chevron-button_bonus__11vZW, .chevron-button_gall__B1i8O, .chevron-button_infinite__6WYOV, .chevron-button_tieredOffer__2a3Y1 {
+  /* background-color: #fff; */
+  background-color: #303030;
+}
+
+/* A.styles.af672a08.css.pagespeed.cf.LZbUpXdlwf.css | https://www.ah.nl/content/assets/A.styles.af672a08.css.pagespeed.cf.LZbUpXdlwf.css */
+
+.spotlight_heading__1pWI6 {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.card-row_item__naLGv {
+  /* background-color: #fff; */
+  background-color: #404040;
+}
+
+.title_root__salCe {
+  /* color: #303030; */
+  color: #bbb;
+}
+
+.price_portrait__vRFj8 {
+  /* background-color: hsla(0,0%,100%,.9); */
+  background-color: hsla(0, 0%, 18.8%, 0.35);
+}
+
+.price-amount_root__1al5m {
+  /* color: #303030; */
+  color: #eee;
+}
+
+.price_listPrice__P8_ko, .price_unitSize__rhVkS {
+  /* color: #acacac; */
+  color: #eee;
+}
+
+.recipe-lane_root__1I5Tn {
+  /* background: #f9f7f5; */
+  background: #404040;
+}
+
+.f-display-card {
+  /* background-color: #f0ece6; */
+  /* color: #303030; */
+  background-color: #303030;
+  color: #bbb;
+}
+
+.f-display-card__footer {
+  /* background-color: #fff; */
+  background-color: #303030;
+}
+
+.recipe-card-properties_root__1ob6n.recipe-card-properties_allerhande__vKfZz {
+  /* background: #f7f7f7; */
+  background: #303030;
+}
+
+.recipe-card-favorite-button_favoriteButton__3qRAK {
+  /* background: #fff; */
+  background: #404040;
+}
+
+.chevron-button_bonus__11vZW, .chevron-button_gall__B1i8O, .chevron-button_infinite__6WYOV, .chevron-button_tieredOffer__2a3Y1 {
+  /* background-color: #fff; */
+  background-color: #303030;
+}
+
+.small-promo-blocks_customBgcolor-walnoot__13nRX {
+  /* background-color: #faf5ed; */
+  background-color: #97938d;
+}
+
+.small-promo-blocks_customBgcolor-ah__3HLEZ {
+  /* background-color: #d9f3fb; */
+  background-color: #90a2a8;
+}
+
+.small-promo-blocks_customBgcolor-mokka__15zat {
+  /* background-color: #f4f1ed; */
+  background-color: #a4a2a1;
+}
+
+.small-promo-blocks_customBgcolor-vanille__1TEFt {
+  /* background-color: #fef7e6; */
+  background-color: #979285;
+}
+
+.small-promo-blocks_customBgcolor-aardbei__1_50Y {
+  /* background-color: #fce2e2; */
+  background-color: #a49292;
+}
+
+.small-promo-blocks_customBgcolor-water__1hRm- {
+  /* background-color: #edf6fc; */
+  background-color: #8d9397;
+}
+
+.navigation-footer_link__2EDjH {
+    color: #bbb;
+}
+
+.f-footer-doormat__social__item svg, .allerhande-icon {
+    fill: #bbb;
+}
+
+#svg_ah-logo > path:nth-child(1) {
+  fill: #303030;
+}
+
+.nav-basket_badge__2Pz2f .badge-counter {
+  /* background: #303030; */
+  background: #ddd;
+}
+
+/* Inline #44 | https://www.ah.nl/ */
+
+.nav-basket_badge__2Pz2f .badge-counter {
+  /* color: #cacaca; */
+  color: #303030;
+}
+
+.shield_tieredOffer__2OAMr .shield_title__205iE {
+  /* border: 1px solid #00ade6; */
+  /* background-color: #00ade6; */
+  border: 1px solid #007ba4;
+  background-color: #007ba4;
+}
+
+.legend-card_bonus__1iRP- {
+  /* background-color: #534c45; */
+  background-color: #222;
+}
+
+
+/* Inline #9 | https://www.ah.nl/bonus */
+
+.price_portrait__2WpRE {
+  /* background-color: hsla(0, 0%, 0%, 0.36); */
+  background-color: hsla(0, 0%, 18.8%, 0.35);
+}
+
