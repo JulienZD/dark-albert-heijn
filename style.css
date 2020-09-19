@@ -1,35 +1,102 @@
 :root {
-  --main-bg-color: #303030;
-  --lighter-bg-color: #404040;
-  --main-text-color: #bbb;
-  --lighter-text-color: #ddd;
-  --white: #fff;
-  --orange: #d96700;
-}
+	--main-bg-color: #303030;
+	--secondary-bg-color: #404040;
+	--main-text-color: #bbb;
+	--secondary-text-color: #ddd;
+	--white: #fff;
+	--orange: #d96700;
+  }
 
 body {
-  background-color: #303030;
-  color: #bbb;
+  background-color: var(--main-bg-color);
+  color: var(--main-text-color);
 }
 
-.title_root__2EGeG {
-  color: #fff;
+.price_listPrice__15t57,
+.price_unitSize__20xsh,
+.price-amount_root__4cx5I,
+.title_root__2EGeG,
+.navigation-footer_root__2q8f7 {
+  color: var(--white);
 }
 
-.price_portrait__2WpRE {
-  background-color: hsla(0, 0%, 18.8%, 0.35);
+.chevron-button_bonus__1CH39,
+.chevron-button_bonusBox__1EOYe,
+.chevron-button_gall__39QDX,
+.chevron-button_infinite__1lQMN,
+.chevron-button_tieredOffer__r-BMK,
+.top-bar_root__2EKb0,
+.f-nav-bar,
+.f-nav-bar-container,
+.collapsible-block-element_root__2MU-5,
+.product-card-hero-price_root__1kqcn,
+.search-header_root__v35xh,
+.f-display-card,
+.f-display-card__footer,
+.chevron-button_bonus__11vZW,
+.chevron-button_gall__B1i8O,
+.chevron-button_infinite__6WYOV,
+.chevron-button_tieredOffer__2a3Y1,
+.navigation-footer_root__2q8f7,
+.recipe-card-properties_root__1ob6n.recipe-card-properties_allerhande__vKfZz {
+  background-color: var(--main-bg-color);
 }
 
-.price_listPrice__15t57, .price_unitSize__20xsh {
-  color: #fff;
+/* Gebruik/Bewaren/Contactgegevens on product pages */
+h5[class*="product-info_collapsibleTitle"] {
+  color: var(--main-text-color);
 }
 
-.price-amount_root__4cx5I {
-  color: #fff;
+.taxonomy-card_titleLink__7TTrF,
+.alphabet_link__1XlLp,
+.shop-in-shop-button_cta__38gwt,
+.f-menu-dropdown__list,
+.product-search_suggestion__18IID,
+.breadcrumbs_link__2Edfx,
+.breadcrumbs_text__cX5Sw,
+.taxonomy-child_title__13KUy,
+.spotlight_heading__912Bm,
+.sorting-select_select__2-aw2 select,
+.title_root__3OLMP,
+.spotlight_heading__1pWI6,
+.title_root__salCe,
+.f-display-card,
+.navigation-footer_link__2EDjH,
+.filter-group_filter__2kWhF,
+.dropdown-option_label__3_4C1,
+.category-selector_dropdownButton__1Gzwd {
+  color: var(--main-text-color);
 }
 
-.chevron-button_bonus__1CH39, .chevron-button_bonusBox__1EOYe, .chevron-button_gall__39QDX, .chevron-button_infinite__1lQMN, .chevron-button_tieredOffer__r-BMK {
-  background-color: #303030;
+.taxonomy-card_root__3e1VZ,
+.shop-in-shop-button_root__1kGBO,
+.autocomplete .react-autosuggest__container,
+.f-menu-dropdown__mount-point::after,
+.f-menu-dropdown__list,
+.product-search_isOpen__110T5.autocomplete .react-autosuggest__suggestions-container,
+.autocomplete .react-autosuggest__suggestions-list,
+.input_field__QD14l,
+.autosuggest-input_label__3JfLC,
+.page-navigation_root__2Zjba,
+.taxonomy-show-more_root__1I6xY,
+.taxonomy-child_root__3MwV-,
+.select_select__2jADY,
+.card-row_item__naLGv,
+.recipe-lane_root__1I5Tn,
+.recipe-card-favorite-button_favoriteButton__3qRAK,
+.dropdown_container__3x21d {
+	background-color: var(--secondary-bg-color);
+}
+
+.price_listPrice__f18hk,
+.price_unitSize__26KBz,
+.input_field__QD14l,
+.autosuggest-input_label__3JfLC,
+.product-recommendations_price__kdc2g,
+.product-card-hero-price_root__1kqcn .price-amount_root__vE9dJ,
+.price-amount_root__vE9dJ,
+.filter-group_titleText__2ErIs {
+	color: var(--secondary-text-color);
 }
 
 img, .f-advertorial {
@@ -37,32 +104,20 @@ img, .f-advertorial {
 }
 
 .legend-card_bonus__1iRP- {
-  color: #d96700;
   background-color: #222;
 }
 
-.base-lane-heading_root__14yNY {
-  color: #d96700;
+.base-lane-heading_root__14yNY, .legend-card_bonus__1iRP- {
+  color: var(--orange);
 }
 
-.top-bar_root__2EKb0 {
-  background-color: #303030;
-}
-
-.sub-nav_link__2ATH1 {
+.sub-nav_link__2ATH1, .f-nav-bar {
   color: #cacaca;
-}
-
-.f-nav-bar {
-  color: #cacaca;
-}
-
-.f-nav-bar, .f-nav-bar-container {
-  background-color: #303030;
 }
 
 .nav-basket_badge__2Pz2f .badge-counter {
-  color: #cacaca;
+  background-color: var(--main-text-color);
+  color: var(--main-bg-color);
 }
 
 .f-footer-doormat__wrapper {
@@ -71,11 +126,6 @@ img, .f-advertorial {
 
 .f-footer-doormat__link {
   color: #686868;
-}
-
-.navigation-footer_root__2q8f7 {
-  background: #303030;
-  color: #fff;
 }
 
 .navigation-footer_noticeItem__1vAq_, .f-advertorial__text-zone {
@@ -90,193 +140,28 @@ img, .f-advertorial {
   color: #000;
 }
 
-.taxonomy-card_root__3e1VZ {
-  background-color: #404040;
+.top-bar_bar__2mTXh, .search-header_sticky__1PuT0 {
+  border-bottom-color: #252525;
 }
 
-.taxonomy-card_titleLink__7TTrF {
-  color: #bbb;
-}
-
-.alphabet_link__1XlLp {
-  color: #bbb;
-}
-
-.shop-in-shop-button_root__1kGBO {
-  background-color: #404040;
-}
-
-.shop-in-shop-button_cta__38gwt {
-  color: #bbb;
-}
-
-.autocomplete .react-autosuggest__container {
-  background-color: #404040;
-}
-
-.f-menu-dropdown__mount-point::after {
-  background-color: #404040;
-}
-
-.f-menu-dropdown__list {
-  background-color: #404040;
-  color: #bbb;
-}
-
-.product-search_isOpen__110T5.autocomplete .react-autosuggest__suggestions-container {
-  background-color: #404040;
-}
-
-.autocomplete .react-autosuggest__suggestions-list {
-  background-color: #404040;
-}
-
-.product-search_suggestion__18IID {
-  color: #bbb;
-}
-
-.input_field__QD14l {
-  background-color: #404040;
-  color: #ddd;
-}
-
-.autosuggest-input_label__3JfLC {
-  color: #ddd;
-  background-color: #404040;
-}
-
-.top-bar_bar__2mTXh {
-  border-bottom: 1px solid #303030;
+.product-card-hero_contentSection__3xq6m {
+  border-top-color: #252525;
 }
 
 .f-nav-bar-container::after {
   background-color: #505050;
 }
 
-/* Gebruik/Bewaren/Contactgegevens on product pages */
-h5[class*="product-info_collapsibleTitle"] {
-  color: #bbb;
-}
-
-.collapsible-block-element_root__2MU-5 {
-  background-color: #303030;
-}
-
 .ui-icon_root__KvRnK {
-  fill: #bbb;
+  fill: var(--main-text-color);
 }
 
-.breadcrumbs_link__2Edfx, .breadcrumbs_text__cX5Sw {
-  color: #bbb;
-}
-
-.product-recommendations_price__kdc2g {
- color:#ddd;
-}
-
-.page-navigation_root__2Zjba {
-  background-color: #404040;
-}
-
-.price-amount_root__vE9dJ {
-  color: #303030;
-}
-
-.product-card-hero-price_root__1kqcn {
-  background-color: #303030;
-}
-
-.product-card-hero-price_root__1kqcn .price-amount_root__vE9dJ {
-    color: #ddd;
-}
-
-.taxonomy-show-more_root__1I6xY {
-  background-color: #404040;
-}
-
-.taxonomy-child_root__3MwV- {
-  background-color: #404040;
-}
-
-.taxonomy-child_title__13KUy {
-  color: #bbb;
-}
-
-.spotlight_heading__912Bm {
-  color: #bbb;
-}
-
-.search-header_root__v35xh {
-  background-color: #303030;
-}
-
-.sorting-select_select__2-aw2 select {
-  color: #bbb;
-}
-
-.select_select__2jADY {
-  background-color: #404040;
-}
-
-.title_root__3OLMP {
-  color: #bbb;
-}
-
-.price_portrait__1yoeR {
+.price_portrait__1yoeR, .price_portrait__vRFj8, .price_portrait__2WpRE {
   background-color: hsla(0, 0%, 18.8%, 0.35);
 }
 
-.price_listPrice__f18hk, .price_unitSize__26KBz {
-  color: #ddd;
-}
-
-.spotlight_heading__1pWI6 {
-  color: #bbb;
-}
-
-.card-row_item__naLGv {
-  background-color: #404040;
-}
-
-.title_root__salCe {
-  color: #bbb;
-}
-
-.price_portrait__vRFj8 {
-  background-color: hsla(0, 0%, 18.8%, 0.35);
-}
-
-.price-amount_root__1al5m {
+.price_listPrice__P8_ko, .price_unitSize__rhVkS, .price-amount_root__1al5m {
   color: #eee;
-}
-
-.price_listPrice__P8_ko, .price_unitSize__rhVkS {
-  color: #eee;
-}
-
-.recipe-lane_root__1I5Tn {
-  background: #404040;
-}
-
-.f-display-card {
-  background-color: #303030;
-  color: #bbb;
-}
-
-.f-display-card__footer {
-  background-color: #303030;
-}
-
-.recipe-card-properties_root__1ob6n.recipe-card-properties_allerhande__vKfZz {
-  background: #303030;
-}
-
-.recipe-card-favorite-button_favoriteButton__3qRAK {
-  background: #404040;
-}
-
-.chevron-button_bonus__11vZW, .chevron-button_gall__B1i8O, .chevron-button_infinite__6WYOV, .chevron-button_tieredOffer__2a3Y1 {
-  background-color: #303030;
 }
 
 .small-promo-blocks_customBgcolor-walnoot__13nRX {
@@ -303,18 +188,14 @@ h5[class*="product-info_collapsibleTitle"] {
   background-color: #8d9397;
 }
 
-.navigation-footer_link__2EDjH {
-    color: #bbb;
-}
-
 .f-footer-doormat__social__item svg, .allerhande-icon {
-    fill: #bbb;
+  fill: var(--main-text-color);
 }
 
-#svg_ah-logo > path:nth-child(1) {
-  fill: #303030;
+#svg_ah-logo > path:nth-child(1),
+#diepvries > path:nth-child(1) {
+  fill: var(--main-bg-color);
 }
-
 
 .shield_tieredOffer__2OAMr .shield_title__205iE {
   border: 1px solid #007ba4;
