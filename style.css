@@ -1,6 +1,10 @@
-body {
-  /* background-color: #fff; */
-  background-color: #303030;
+:root {
+  --main-bg-color: #303030;
+  --lighter-bg-color: #404040;
+  --main-text-color: #bbb;
+  --lighter-text-color: #ddd;
+  --white: #fff;
+  --orange: #d96700;
 }
 
 body {
