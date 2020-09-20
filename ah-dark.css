@@ -38,7 +38,8 @@ body {
 .chevron-button_infinite__6WYOV,
 .chevron-button_tieredOffer__2a3Y1,
 .navigation-footer_root__2q8f7,
-.recipe-card-properties_root__1ob6n.recipe-card-properties_allerhande__vKfZz {
+.recipe-card-properties_root__1ob6n.recipe-card-properties_allerhande__vKfZz,
+.f-modal-content {
   background-color: var(--main-bg-color);
 }
 
@@ -84,7 +85,8 @@ h5[class*="product-info_collapsibleTitle"] {
 .card-row_item__naLGv,
 .recipe-lane_root__1I5Tn,
 .recipe-card-favorite-button_favoriteButton__3qRAK,
-.dropdown_container__3x21d {
+.dropdown_container__3x21d,
+.f-divider-paragraph__text {
 	background-color: var(--secondary-bg-color);
 }
 
@@ -200,4 +202,8 @@ img, .f-advertorial {
 .shield_tieredOffer__2OAMr .shield_title__205iE {
   border: 1px solid #007ba4;
   background-color: #007ba4;
+}
+
+.f-divider-paragraph::after {
+  border-bottom-color: var(--secondary-bg-color);
 }
