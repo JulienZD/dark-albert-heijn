@@ -209,3 +209,16 @@ img, .f-advertorial {
 .f-divider-paragraph::after {
   border-bottom-color: var(--secondary-bg-color);
 }
+
+.back-to-top_backToTop__1XRNj {
+  background-color: var(--main-text-color);
+}
+
+.back-to-top_icon__2qLk8 {
+  color: var(--main-bg-color);
+  fill: var(--main-bg-color) !important;
+}
+
+.back-to-top_text__197oX {
+  color: var(--main-bg-color);
+}
