@@ -65,7 +65,11 @@ h5[class*="product-info_collapsibleTitle"] {
 .navigation-footer_link__2EDjH,
 .filter-group_filter__2kWhF,
 .dropdown-option_label__3_4C1,
-.category-selector_dropdownButton__1Gzwd {
+.category-selector_dropdownButton__1Gzwd,
+.navigation__link--home,
+.navigation__link--home:visited,
+.navigation__link--logout,
+.navigation__link--logout:visited {
   color: var(--main-text-color);
 }
 
@@ -154,7 +158,8 @@ img, .f-advertorial {
   background-color: #505050;
 }
 
-.ui-icon_root__KvRnK {
+.ui-icon_root__KvRnK,
+.navigation__link--ho {
   fill: var(--main-text-color);
 }
 
