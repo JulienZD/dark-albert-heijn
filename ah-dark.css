@@ -39,7 +39,8 @@ body {
 .chevron-button_tieredOffer__2a3Y1,
 .navigation-footer_root__2q8f7,
 .recipe-card-properties_root__1ob6n.recipe-card-properties_allerhande__vKfZz,
-.f-modal-content {
+.f-modal-content,
+.f-footer-doormat__wrapper {
   background-color: var(--main-bg-color);
 }
 
@@ -124,10 +125,6 @@ img, .f-advertorial {
 .nav-basket_badge__2Pz2f .badge-counter {
   background-color: var(--main-text-color);
   color: var(--main-bg-color);
-}
-
-.f-footer-doormat__wrapper {
-  background: #222;
 }
 
 .f-footer-doormat__link {
