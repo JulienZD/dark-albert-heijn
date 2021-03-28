@@ -16,9 +16,9 @@ Manual installation (for [Stylus](https://add0n.com/stylus.html)):
 ## Notes
 I somewhat hastily created this, it is currently incomplete.  
 The pages covered so far are:
-- Home page;
-- All products page;
-- Individual product pages;
-- Bonus.
+- Home page
+- All products page
+- Individual product pages
+- Bonus
 
 Unfortunately the product images contain a white background which can't be removed. The best I could do was lower the brightness by 50%.
