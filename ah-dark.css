@@ -27,7 +27,7 @@ body {
 .chevron-button_tieredOffer__r-BMK,
 .top-bar_root__2EKb0,
 .f-nav-bar,
-.f-nav-bar-container,
+.navigation-header_container__2NeUZ,
 .collapsible-block-element_root__2MU-5,
 .product-card-hero-price_root__1kqcn,
 .search-header_root__v35xh,
@@ -38,12 +38,8 @@ body {
 .chevron-button_infinite__6WYOV,
 .chevron-button_tieredOffer__2a3Y1,
 .navigation-footer_root__2q8f7,
-.recipe-card-properties_root__1ob6n.recipe-card-properties_allerhande__vKfZz,
-.f-modal-content,
-.f-footer-doormat__wrapper,
-.delete-button_flat__38VU0,
-.quantity-input_root__1cfUK {
-  background-color: var(--main-bg-color);
+.recipe-card-properties_root__1ob6n.recipe-card-properties_allerhande__vKfZz {
+    background-color: var(--main-bg-color);
 }
 
 /* Gebruik/Bewaren/Contactgegevens on product pages */
@@ -51,6 +47,13 @@ h5[class*="product-info_collapsibleTitle"] {
   color: var(--main-text-color);
 }
 
+.toolbar-row_item__157yJ,
+.price-amount_root__u1ESX,
+.line-clamp_root__3-xmH,
+.icon-button_root__3mAIE,
+.icon-button_label__scagH,
+.f-menu-dropdown__button,
+.f-menu-item__text,
 .price-amount_root__37xv2,
 .line-clamp_root__1FX_J,
 .title_lineclamp__1ssbk,
